@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2315
+
+Provides simple highlighting for sofu files, which are used in some projects:
+For more information on sofu see http://sofu.sf.net
+
+Normaly these files get autodetected as "conf", which is o.k., but this script provides a better highlighting.
+
+Based somewhat on the included conf.vim
